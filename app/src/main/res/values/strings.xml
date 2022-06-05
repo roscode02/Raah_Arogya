@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Raah Arogya</string>
+    <string name="status">Status:</string>
+    <string name="sign_in_with">Sign In with:</string>
+</resources>
